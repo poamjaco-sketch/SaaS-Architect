@@ -1,0 +1,562 @@
+Pasted-Your-Super-Admin-Agyakwah-Technologies-School-Admin-Hea_1784669248015.txt
+Your Super Admin (Agyakwah Technologies)
+School Admin (Headmaster/Administrator)
+Teacher App
+Parent App
+1. SchoolCore Landing / Login Screen
+
+This is what everyone sees first.
+
+--------------------------------
+
+        [ SchoolCore Logo ]
+
+     Digital Management
+     For Modern Schools
+
+
+  Login with phone number
+
+
+  +233 | 024 XXX XXXX
+
+
+        [ Continue ]
+
+
+  Are you a school?
+
+  Register your school
+
+
+--------------------------------
+
+Mobile-first.
+
+No complicated passwords.
+
+Use:
+
+Phone OTP
+Secure login
+2. Platform Super Admin Dashboard
+(Your Agyakwah Technologies Control Center)
+
+This is YOUR dashboard.
+
+Desktop view:
+
+------------------------------------------------
+
+SchoolCore Admin
+
+Dashboard
+
+------------------------------------------------
+
+Total Schools
+
+     125
+
+
+Active Students
+
+     54,320
+
+
+Teachers
+
+     4,850
+
+
+Monthly Revenue
+
+     GHS 45,000
+
+
+------------------------------------------------
+
+Recent Schools
+
+------------------------------------------------
+
+Bright Future Academy
+Kumasi
+
+Plan:
+Professional
+
+Students:
+650
+
+Status:
+Active
+
+
+Royal Academy
+Accra
+
+Plan:
+Starter
+
+Students:
+200
+
+Status:
+Active
+
+
+------------------------------------------------
+
+Menu
+
+🏫 Schools
+
+💳 Billing
+
+👥 Users
+
+📊 Analytics
+
+🔐 Security
+
+⚙ Settings
+
+
+------------------------------------------------
+Super Admin → School Management
+
+When you click a school:
+
+------------------------------------------------
+
+Bright Future Academy
+
+School ID:
+SCH-001
+
+
+Plan:
+Professional
+
+
+Students:
+650
+
+
+Teachers:
+45
+
+
+Created:
+July 2026
+
+
+------------------------------------------------
+
+Actions:
+
+
+[ View Dashboard ]
+
+[ Change Plan ]
+
+[ Disable Account ]
+
+[ Contact Admin ]
+
+------------------------------------------------
+
+Features
+
+Attendance        ON ✅
+
+Results           ON ✅
+
+Fees              ON ✅
+
+SMS               ON ✅
+
+Library           OFF ❌
+
+
+------------------------------------------------
+3. School Registration Screen
+
+A school joins:
+
+--------------------------------
+
+Register Your School
+
+
+School Name
+
+[________________]
+
+
+Location
+
+[ Kumasi ]
+
+
+School Type
+
+[ Basic School ▼ ]
+
+
+Number of Students
+
+[ 500 ]
+
+
+Admin Phone Number
+
+[ 024XXXXXXX ]
+
+
+Upload Logo
+
+
+        [ Create School ]
+
+--------------------------------
+
+After approval:
+
+School gets dashboard.
+
+4. School Admin Dashboard
+(Headmaster)
+
+This is the most important screen.
+
+================================================
+
+Bright Future Academy
+
+Good Morning, Mr. Mensah
+
+
+Students
+
+650
+
+
+Teachers
+
+45
+
+
+Attendance Today
+
+96%
+
+
+Fees Collected
+
+GHS 350,000
+
+
+================================================
+
+
+MENU
+
+
+👨‍🎓 Students
+
+👨‍🏫 Teachers
+
+🏫 Classes
+
+📅 Attendance
+
+📚 Results
+
+💰 Fees
+
+📢 Announcements
+
+⚙ Settings
+
+
+================================================
+5. Student Management Screen
+
+Admin clicks Students.
+
+------------------------------------------------
+
+Students
+
+
+Search student
+
+[ Kwame __________ ]
+
+
++ Add Student
+
+
+------------------------------------------------
+
+
+Name              Class        Status
+
+
+Kwame Mensah      JHS 2A       Active
+
+
+Ama Owusu         JHS 1B       Active
+
+
+Yaw Boateng       JHS 3A       Active
+
+
+
+------------------------------------------------
+Add Student
+--------------------------------
+
+New Student
+
+
+Photo
+
+
+First Name
+
+[ Kwame ]
+
+
+Last Name
+
+[ Mensah ]
+
+
+Date of Birth
+
+[ 12/03/2013 ]
+
+
+Class
+
+[ JHS 2A ]
+
+
+Parent Phone
+
+[ 024XXXXXXX ]
+
+
+Relationship
+
+Father
+
+
+       [ Save Student ]
+
+--------------------------------
+
+After saving:
+
+Parent account can be created.
+
+6. Teacher Dashboard
+
+Teacher opens app:
+
+--------------------------------
+
+Good Morning
+
+Mr. Agyeman
+
+
+Today's Classes
+
+
+JHS 2A
+
+Mathematics
+
+
+JHS 3B
+
+ICT
+
+
+--------------------------------
+
+
+Actions:
+
+
+📅 Attendance
+
+
+📝 Enter Results
+
+
+📚 Homework
+
+
+💬 Messages
+
+
+--------------------------------
+7. Attendance Screen
+
+Teacher:
+
+--------------------------------
+
+JHS 2A
+
+21 July 2026
+
+
+Student          Status
+
+
+Kwame Mensah     ✅ Present
+
+
+Ama Owusu        ❌ Absent
+
+
+Yaw Boateng      ✅ Present
+
+
+
+[ Submit Attendance ]
+
+
+--------------------------------
+
+After submit:
+
+Parent receives:
+
+SchoolCore SMS:
+
+Your child Kwame Mensah
+was present today.
+8. Results Screen
+
+Teacher:
+
+--------------------------------
+
+JHS 2A
+
+Mathematics
+
+
+Student
+
+Kwame Mensah
+
+Score:
+
+[ 85 ]
+
+
+Grade:
+
+A
+
+
+Comment:
+
+Excellent work
+
+
+[ Save Result ]
+
+--------------------------------
+9. Parent App
+
+This is the most important for trust.
+
+Parent opens app:
+
+================================
+
+Bright Future Academy
+
+
+Welcome,
+Mrs. Mensah
+
+
+Your Child
+
+
+👦 Kwame Mensah
+
+JHS 2A
+
+
+================================
+
+
+Attendance
+
+96%
+
+
+Average Score
+
+82%
+
+
+Fees Balance
+
+GHS 500
+
+
+================================
+
+
+Menu:
+
+
+📚 Results
+
+📅 Attendance
+
+💰 Fees
+
+📝 Homework
+
+📢 Notices
+
+
+================================
+Parent Results Screen
+--------------------------------
+
+Term 1 Results
+
+
+Mathematics
+
+85 A
+
+
+English
+
+78 B+
+
+
+Science
+
+90 A
+
+
+Teacher Comment:
+
+
+"Very hardworking stude...

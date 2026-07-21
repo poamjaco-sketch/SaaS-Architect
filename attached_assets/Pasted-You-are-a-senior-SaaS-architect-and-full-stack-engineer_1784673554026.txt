@@ -1,0 +1,134 @@
+You are a senior SaaS architect and full-stack engineer.
+
+Help me build a production-ready multi-tenant school management platform called SchoolCore.
+
+The platform will serve private schools in Ghana first, with future expansion across Africa.
+
+The system must support multiple schools using one platform while keeping each school's data completely isolated.
+
+Users:
+
+Platform Super Admin (owner)
+School Admin
+Teachers
+Parents
+Students (future)
+Core requirements:
+
+School Admin:
+
+Register school
+Upload school logo
+Manage students
+Manage teachers
+Manage classes
+Manage subjects
+Manage fees
+Generate reports
+Teachers:
+
+Login securely
+View assigned classes
+Take attendance
+Enter results
+Upload assignments
+Parents:
+
+Login using phone OTP
+View child results
+View attendance
+Receive notifications
+View fees balance
+Ghana requirements:
+
+Mobile-first design
+Phone number authentication
+SMS integration
+Mobile money payments later
+Low internet support
+Parent support through SMS
+Architecture:
+
+Frontend: React + Vite Tailwind CSS PWA support
+
+Backend: Node.js Express
+
+Database: PostgreSQL
+
+ORM: Drizzle ORM
+
+Authentication: Phone OTP
+
+Storage: Cloud storage for images/documents
+
+Design: Create a professional enterprise dashboard similar to PowerSchool and modern SaaS applications.
+
+Build:
+
+System architecture
+Database schema
+User roles and permissions
+API design
+UI screens
+Development roadmap
+Think like a startup building a product used by thousands of schools. Prioritize security, scalability, and simplicity.10. School Settings
+Settings
+
+School Profile
+
+Logo
+
+School Name
+
+Subscription
+
+Professional
+
+Users
+
+Teachers
+
+Security
+
+Audit Logs
+
+Data Export
+
+Agreement
+
+The Demo Flow When Visiting a School
+When you visit:
+
+Do not start with admin.
+
+Show this:
+
+Step 1:
+
+Parent app
+
+"Imagine a parent checking their child's performance."
+
+↓
+
+Step 2:
+
+Teacher app
+
+"Teacher takes attendance in seconds."
+
+↓
+
+Step 3:
+
+Admin dashboard
+
+"Headmaster sees the whole school."
+
+↓
+
+Step 4:
+
+Your Super Admin
+
+"Every school runs on one secure platform.", i want nice professional UI like, https://fedena.com/ ,like very porfessional like fedena professional,
