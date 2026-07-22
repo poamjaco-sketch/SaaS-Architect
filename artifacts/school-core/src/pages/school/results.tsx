@@ -70,12 +70,13 @@ export default function ResultsPage() {
 
     createMutation.mutate(
       { 
+        schoolId,
         data: {
           ...values,
           classId: Number(selectedClass),
           subjectId: Number(selectedSubject),
           term,
-          academicYear: new Date().getFullYear().toString()
+          academicYear: "2025/2026"
         } 
       },
       {

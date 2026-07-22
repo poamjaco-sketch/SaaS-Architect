@@ -1,0 +1,3 @@
+- [SchoolCore auth flow](schoolcore-auth.md) — token stored in localStorage under `schoolcore_token`; setAuthTokenGetter wired in auth.tsx
+- [SchoolCore DB schema quirks](schoolcore-db-quirks.md) — fees has no academic_year/author_id; announcements has no author_id; attendance.date is a `date` type (not text)
+- [SchoolCore App routing](schoolcore-routing.md) — wouter Router uses BASE_URL as base; all routes match path segments only (not prefixed)

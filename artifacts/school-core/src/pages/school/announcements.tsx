@@ -47,7 +47,7 @@ export default function AnnouncementsPage() {
 
   const onSubmit = (values: z.infer<typeof createSchema>) => {
     createMutation.mutate(
-      { data: values },
+      { schoolId, data: values },
       {
         onSuccess: () => {
           toast.success("Announcement broadcasted successfully");

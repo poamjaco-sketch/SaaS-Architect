@@ -63,7 +63,7 @@ export default function FeesPage() {
 
   const onSubmit = (values: z.infer<typeof createSchema>) => {
     createMutation.mutate(
-      { data: values },
+      { schoolId, data: values },
       {
         onSuccess: () => {
           toast.success("Fee record created successfully");

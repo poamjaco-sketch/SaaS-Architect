@@ -65,6 +65,8 @@ export default function Login() {
       { data: { phone, otp: data.otp } },
       {
         onSuccess: (session) => {
+          // Persist the auth token so the API client can attach it to every request
+          localStorage.setItem("schoolcore_token", session.token);
           setUser(session.user);
           toast.success(`Welcome back!`);
           setLocation("/");
